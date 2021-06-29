@@ -1,0 +1,41 @@
+body{
+    background-size:cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.note{
+    color:black;
+    font-size: 20;
+}
+.speed{
+    float: left;
+}
+
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.head{
+    font-size: 25px;
+}
+
+.Volume{
+float: right;
+}
+
+.play{
+    font-size: 25px;
+}
+
+canvas{
+    border: white;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 5px 5px 18px black;
+    border-radius: 20px;
+}
